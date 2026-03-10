@@ -35,4 +35,4 @@ Figures are saved to the `figures/` directory.
 
 ## Report
 
-Full report with theory and derivations: [`report/MS23249_m2_mcs.pdf`](report/MS23249_m2_mcs.pdf)
+Full report with theory and derivations: [`report/MS23249_m2_mcs.pdf`](report/kuramoto.pdf)
