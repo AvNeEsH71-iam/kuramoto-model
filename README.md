@@ -9,7 +9,7 @@
 
 ## Overview
 
-This project studies the **all-to-all Kuramoto model** with sine coupling function — a
+This project studies the **all-to-all Kuramoto model** with sine coupling function which is a
 paradigm for collective synchronization in complex systems. Each oscillator has its own
 natural frequency drawn from a probability distribution, and coupling between oscillators
 leads to spontaneous phase locking above a critical coupling strength.
