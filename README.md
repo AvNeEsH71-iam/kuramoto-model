@@ -1,4 +1,4 @@
-# Kuramoto Model — Synchronization Dynamics
+# Kuramoto Model : Synchronization Dynamics
 
 **Course:** Modelling Complex Systems | Module-2
 **Institute:** Indian Institute of Science Education and Research, Mohali
